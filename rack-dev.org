@@ -1,0 +1,37 @@
+* Hacklab Rack Development
+** TODO Basic installation [3/6]
+1. [X] Place the rack in the hacklab
+   - We have a key of the door.
+   - But there is no back door.
+2. [X] Design a system to secure items inside rack (because of the back
+   door problem)
+   - We use a security kit. It allows 3 more items.
+     - security kit: http://www.cablematic.com/producto/Kit-de-Seguridad-para-PC-_open_parenthesis_4-Anclajes_close_parenthesis_/
+3. [X] Secure AlixHacklab with security kit (gives guifi.net connection)
+4. [ ] 1U with power strip (It is in a rack of NeTS)
+5. [ ] Put the AlixHacklab on the rack to improve wifi coverage
+6. [ ] Secure power supply (use cable tides)
+   - [ ] ask to informatica service good practices to secure cables
+** TODO Giving free access (guifi.net + Internet) [0/4]
+1. [ ] Set a new Alix on NeTS (AlixNeTS) with wifi
+2. [ ] Configure on AlixNeTS a tunnel to UPC
+3. [ ] Force on AlixHacklab the Internet tunnel to be UPC
+4. [ ] Open wifi of AlixHacklab
+** TODO Structure [0/2]
+Take useful components of the other rack of NeTS to be able to add
+complexity
+- [ ] quit useless things of the rack
+- [ ] put rack shelfs (from NeTS Rack)
+** TODO Optional - Adding complexity [0/2]
+- [ ] Add switch components to the rack
+  - ?? cisco x 2 (NeTS) - They are old... Are noisy?
+  - 4250T 3com x 2 (my home) - Are good/interesting?
+- [ ] Add a PC to the rack [0/4]
+  - [ ] Mouse
+  - [ ] Keyboard
+  - [ ] Screen
+    - [ ] Place to hacklab
+    - [ ] Secure (request to informatica service)
+  - [ ] PC tower
+    - [ ] Place to hacklab
+    - [ ] Secure (request to informatica service)
